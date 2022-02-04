@@ -1,0 +1,9 @@
+{
+	"ip":"SURVIVALfabas.aternos.me",
+	"port": "51193",
+	"name": " ~ S U R V I V A L ~",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register fabianlevi234 ",
+	"login-cmd":"/login fabianlevi234 "
+}
